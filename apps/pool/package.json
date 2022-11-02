@@ -10,7 +10,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "@builder.io/partytown": "^0.6.0",
+    "@builder.io/partytown": "^0.7.1",
     "@ethersproject/abi": "^5.0.0",
     "@ethersproject/address": "^5.0.0",
     "@ethersproject/bignumber": "^5.0.0",
