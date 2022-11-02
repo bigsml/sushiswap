@@ -13,7 +13,7 @@
     "@sushiswap/chain": "workspace:*",
     "@sushiswap/core-sdk": "^1.0.0-canary.65",
     "@sushiswap/format": "workspace:*",
-    "@sushiswap/sushi-data": "1.0.26",
+    "@sushiswap/sushi-data": "1.0.27",
     "@sushiswap/ui": "workspace:*",
     "next": "^12.2.0",
     "numeral": "^2.0.6",
