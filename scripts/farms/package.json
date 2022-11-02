@@ -82,6 +82,6 @@
     "@sushiswap/core-sdk": "1.0.0-canary.133",
     "@sushiswap/graph-client": "workspace:*",
     "@sushiswap/wagmi": "workspace:*",
-    "@wagmi/core": "^0.4.9"
+    "@wagmi/core": "^0.5.8"
   }
 }
