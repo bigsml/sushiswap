@@ -24,7 +24,7 @@
     "@typechain/ethers-v5": "^10.0.0",
     "@uniswap/redux-multicall": "^1.1.1",
     "@uniswap/v3-periphery": "^1.4.1",
-    "next": "^12.2.0",
+    "next": "^13.5.4",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-redux": "^8.0.1",
